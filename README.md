@@ -107,5 +107,5 @@ License
 This project is licensed under the MIT License.
 
    ```bash
-   git clone https://github.com/yourusername/dev-blog.git
+   git clone https://github.com/jameskamau-5773/dev-blog.git
    cd dev-blog# code-challenge-3
